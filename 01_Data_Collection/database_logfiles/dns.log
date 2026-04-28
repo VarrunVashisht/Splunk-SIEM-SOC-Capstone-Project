@@ -1,0 +1,400 @@
+timestamp=2026-04-01 08:25:00 index=dns src_ip=192.168.1.25 query=data.exfil.evil.com bytes_out=15521908
+timestamp=2026-04-01 08:25:05 index=dns src_ip=192.168.1.38 query=data.exfil.evil.com bytes_out=16340730
+timestamp=2026-04-01 08:25:10 index=dns src_ip=192.168.1.53 query=data.exfil.evil.com bytes_out=8542542
+timestamp=2026-04-01 08:25:15 index=dns src_ip=192.168.1.18 query=data.exfil.evil.com bytes_out=2106908
+timestamp=2026-04-01 08:25:20 index=dns src_ip=192.168.1.33 query=data.exfil.evil.com bytes_out=48785436
+timestamp=2026-04-01 08:25:25 index=dns src_ip=192.168.1.57 query=data.exfil.evil.com bytes_out=33924096
+timestamp=2026-04-01 08:25:30 index=dns src_ip=192.168.1.21 query=data.exfil.evil.com bytes_out=12027085
+timestamp=2026-04-01 08:25:35 index=dns src_ip=192.168.1.59 query=data.exfil.evil.com bytes_out=41497163
+timestamp=2026-04-01 08:25:40 index=dns src_ip=192.168.1.51 query=data.exfil.evil.com bytes_out=35022088
+timestamp=2026-04-01 08:25:45 index=dns src_ip=192.168.1.52 query=data.exfil.evil.com bytes_out=47875135
+timestamp=2026-04-01 08:25:50 index=dns src_ip=192.168.1.14 query=data.exfil.evil.com bytes_out=6589821
+timestamp=2026-04-01 08:25:55 index=dns src_ip=192.168.1.17 query=data.exfil.evil.com bytes_out=45302222
+timestamp=2026-04-01 08:26:00 index=dns src_ip=192.168.1.55 query=data.exfil.evil.com bytes_out=14059848
+timestamp=2026-04-01 08:26:05 index=dns src_ip=192.168.1.34 query=data.exfil.evil.com bytes_out=10639193
+timestamp=2026-04-01 08:26:10 index=dns src_ip=192.168.1.20 query=data.exfil.evil.com bytes_out=27309711
+timestamp=2026-04-01 08:26:15 index=dns src_ip=192.168.1.39 query=data.exfil.evil.com bytes_out=17075304
+timestamp=2026-04-01 08:26:20 index=dns src_ip=192.168.1.52 query=data.exfil.evil.com bytes_out=35519142
+timestamp=2026-04-01 08:26:25 index=dns src_ip=192.168.1.22 query=data.exfil.evil.com bytes_out=21582858
+timestamp=2026-04-01 08:26:30 index=dns src_ip=192.168.1.14 query=data.exfil.evil.com bytes_out=42696469
+timestamp=2026-04-01 08:26:35 index=dns src_ip=192.168.1.41 query=data.exfil.evil.com bytes_out=19113496
+timestamp=2026-04-01 08:26:40 index=dns src_ip=192.168.1.45 query=data.exfil.evil.com bytes_out=22744233
+timestamp=2026-04-01 08:26:45 index=dns src_ip=192.168.1.28 query=data.exfil.evil.com bytes_out=44633339
+timestamp=2026-04-01 08:26:50 index=dns src_ip=192.168.1.10 query=data.exfil.evil.com bytes_out=1230994
+timestamp=2026-04-01 08:26:55 index=dns src_ip=192.168.1.32 query=data.exfil.evil.com bytes_out=43655830
+timestamp=2026-04-01 08:27:00 index=dns src_ip=192.168.1.53 query=data.exfil.evil.com bytes_out=4475593
+timestamp=2026-04-01 08:27:05 index=dns src_ip=192.168.1.25 query=data.exfil.evil.com bytes_out=46201486
+timestamp=2026-04-01 08:27:10 index=dns src_ip=192.168.1.22 query=data.exfil.evil.com bytes_out=49561952
+timestamp=2026-04-01 08:27:15 index=dns src_ip=192.168.1.35 query=data.exfil.evil.com bytes_out=13917809
+timestamp=2026-04-01 08:27:20 index=dns src_ip=192.168.1.25 query=data.exfil.evil.com bytes_out=38621824
+timestamp=2026-04-01 08:27:25 index=dns src_ip=192.168.1.30 query=data.exfil.evil.com bytes_out=7178852
+timestamp=2026-04-01 08:27:30 index=dns src_ip=192.168.1.19 query=data.exfil.evil.com bytes_out=16508063
+timestamp=2026-04-01 08:27:35 index=dns src_ip=192.168.1.12 query=data.exfil.evil.com bytes_out=9779916
+timestamp=2026-04-01 08:27:40 index=dns src_ip=192.168.1.44 query=data.exfil.evil.com bytes_out=4761860
+timestamp=2026-04-01 08:27:45 index=dns src_ip=192.168.1.39 query=data.exfil.evil.com bytes_out=6265546
+timestamp=2026-04-01 08:27:50 index=dns src_ip=192.168.1.54 query=data.exfil.evil.com bytes_out=27164441
+timestamp=2026-04-01 08:27:55 index=dns src_ip=192.168.1.23 query=data.exfil.evil.com bytes_out=10919066
+timestamp=2026-04-01 08:28:00 index=dns src_ip=192.168.1.42 query=data.exfil.evil.com bytes_out=7519149
+timestamp=2026-04-01 08:28:05 index=dns src_ip=192.168.1.27 query=data.exfil.evil.com bytes_out=39912215
+timestamp=2026-04-01 08:28:10 index=dns src_ip=192.168.1.20 query=data.exfil.evil.com bytes_out=30903673
+timestamp=2026-04-01 08:28:15 index=dns src_ip=192.168.1.36 query=data.exfil.evil.com bytes_out=28040717
+timestamp=2026-04-01 08:28:20 index=dns src_ip=192.168.1.17 query=data.exfil.evil.com bytes_out=24860721
+timestamp=2026-04-01 08:28:25 index=dns src_ip=192.168.1.57 query=data.exfil.evil.com bytes_out=45743864
+timestamp=2026-04-01 08:28:30 index=dns src_ip=192.168.1.53 query=data.exfil.evil.com bytes_out=45571529
+timestamp=2026-04-01 08:28:35 index=dns src_ip=192.168.1.29 query=data.exfil.evil.com bytes_out=20272305
+timestamp=2026-04-01 08:28:40 index=dns src_ip=192.168.1.57 query=data.exfil.evil.com bytes_out=14528720
+timestamp=2026-04-01 08:28:45 index=dns src_ip=192.168.1.28 query=data.exfil.evil.com bytes_out=18901891
+timestamp=2026-04-01 08:28:50 index=dns src_ip=192.168.1.27 query=data.exfil.evil.com bytes_out=11058912
+timestamp=2026-04-01 08:28:55 index=dns src_ip=192.168.1.18 query=data.exfil.evil.com bytes_out=49823324
+timestamp=2026-04-01 08:29:00 index=dns src_ip=192.168.1.18 query=data.exfil.evil.com bytes_out=48681047
+timestamp=2026-04-01 08:29:05 index=dns src_ip=192.168.1.47 query=data.exfil.evil.com bytes_out=41116311
+timestamp=2026-04-01 08:29:10 index=dns src_ip=192.168.1.42 query=data.exfil.evil.com bytes_out=7754912
+timestamp=2026-04-01 08:29:15 index=dns src_ip=192.168.1.35 query=data.exfil.evil.com bytes_out=18849918
+timestamp=2026-04-01 08:29:20 index=dns src_ip=192.168.1.20 query=data.exfil.evil.com bytes_out=46354651
+timestamp=2026-04-01 08:29:25 index=dns src_ip=192.168.1.36 query=data.exfil.evil.com bytes_out=13765434
+timestamp=2026-04-01 08:29:30 index=dns src_ip=192.168.1.40 query=data.exfil.evil.com bytes_out=33809990
+timestamp=2026-04-01 08:29:35 index=dns src_ip=192.168.1.21 query=data.exfil.evil.com bytes_out=18974195
+timestamp=2026-04-01 08:29:40 index=dns src_ip=192.168.1.32 query=data.exfil.evil.com bytes_out=12709518
+timestamp=2026-04-01 08:29:45 index=dns src_ip=192.168.1.59 query=data.exfil.evil.com bytes_out=39644570
+timestamp=2026-04-01 08:29:50 index=dns src_ip=192.168.1.31 query=data.exfil.evil.com bytes_out=10649112
+timestamp=2026-04-01 08:29:55 index=dns src_ip=192.168.1.17 query=data.exfil.evil.com bytes_out=40988680
+timestamp=2026-04-01 08:30:00 index=dns src_ip=192.168.1.33 query=data.exfil.evil.com bytes_out=24958195
+timestamp=2026-04-01 08:30:05 index=dns src_ip=192.168.1.24 query=data.exfil.evil.com bytes_out=32580350
+timestamp=2026-04-01 08:30:10 index=dns src_ip=192.168.1.17 query=data.exfil.evil.com bytes_out=10882135
+timestamp=2026-04-01 08:30:15 index=dns src_ip=192.168.1.33 query=data.exfil.evil.com bytes_out=36055888
+timestamp=2026-04-01 08:30:20 index=dns src_ip=192.168.1.31 query=data.exfil.evil.com bytes_out=11797589
+timestamp=2026-04-01 08:30:25 index=dns src_ip=192.168.1.51 query=data.exfil.evil.com bytes_out=16089149
+timestamp=2026-04-01 08:30:30 index=dns src_ip=192.168.1.13 query=data.exfil.evil.com bytes_out=3283053
+timestamp=2026-04-01 08:30:35 index=dns src_ip=192.168.1.31 query=data.exfil.evil.com bytes_out=49743392
+timestamp=2026-04-01 08:30:40 index=dns src_ip=192.168.1.35 query=data.exfil.evil.com bytes_out=3084014
+timestamp=2026-04-01 08:30:45 index=dns src_ip=192.168.1.38 query=data.exfil.evil.com bytes_out=29460952
+timestamp=2026-04-01 08:30:50 index=dns src_ip=192.168.1.58 query=data.exfil.evil.com bytes_out=36689538
+timestamp=2026-04-01 08:30:55 index=dns src_ip=192.168.1.43 query=data.exfil.evil.com bytes_out=19102898
+timestamp=2026-04-01 08:31:00 index=dns src_ip=192.168.1.37 query=data.exfil.evil.com bytes_out=30258868
+timestamp=2026-04-01 08:31:05 index=dns src_ip=192.168.1.43 query=data.exfil.evil.com bytes_out=12007730
+timestamp=2026-04-01 08:31:10 index=dns src_ip=192.168.1.52 query=data.exfil.evil.com bytes_out=34613730
+timestamp=2026-04-01 08:31:15 index=dns src_ip=192.168.1.27 query=data.exfil.evil.com bytes_out=13963983
+timestamp=2026-04-01 08:31:20 index=dns src_ip=192.168.1.30 query=data.exfil.evil.com bytes_out=40910136
+timestamp=2026-04-01 08:31:25 index=dns src_ip=192.168.1.46 query=data.exfil.evil.com bytes_out=7125964
+timestamp=2026-04-01 08:31:30 index=dns src_ip=192.168.1.29 query=data.exfil.evil.com bytes_out=16655349
+timestamp=2026-04-01 08:31:35 index=dns src_ip=192.168.1.12 query=data.exfil.evil.com bytes_out=4242385
+timestamp=2026-04-01 08:31:40 index=dns src_ip=192.168.1.13 query=data.exfil.evil.com bytes_out=18988739
+timestamp=2026-04-01 08:31:45 index=dns src_ip=192.168.1.41 query=data.exfil.evil.com bytes_out=24047247
+timestamp=2026-04-01 08:31:50 index=dns src_ip=192.168.1.33 query=data.exfil.evil.com bytes_out=26241458
+timestamp=2026-04-01 08:31:55 index=dns src_ip=192.168.1.47 query=data.exfil.evil.com bytes_out=46515577
+timestamp=2026-04-01 08:32:00 index=dns src_ip=192.168.1.17 query=data.exfil.evil.com bytes_out=38104999
+timestamp=2026-04-01 08:32:05 index=dns src_ip=192.168.1.12 query=data.exfil.evil.com bytes_out=30962334
+timestamp=2026-04-01 08:32:10 index=dns src_ip=192.168.1.52 query=data.exfil.evil.com bytes_out=13731051
+timestamp=2026-04-01 08:32:15 index=dns src_ip=192.168.1.29 query=data.exfil.evil.com bytes_out=43968628
+timestamp=2026-04-01 08:32:20 index=dns src_ip=192.168.1.39 query=data.exfil.evil.com bytes_out=42600266
+timestamp=2026-04-01 08:32:25 index=dns src_ip=192.168.1.34 query=data.exfil.evil.com bytes_out=48772925
+timestamp=2026-04-01 08:32:30 index=dns src_ip=192.168.1.14 query=data.exfil.evil.com bytes_out=30998175
+timestamp=2026-04-01 08:32:35 index=dns src_ip=192.168.1.25 query=data.exfil.evil.com bytes_out=6858260
+timestamp=2026-04-01 08:32:40 index=dns src_ip=192.168.1.56 query=data.exfil.evil.com bytes_out=34505366
+timestamp=2026-04-01 08:32:45 index=dns src_ip=192.168.1.12 query=data.exfil.evil.com bytes_out=1001576
+timestamp=2026-04-01 08:32:50 index=dns src_ip=192.168.1.32 query=data.exfil.evil.com bytes_out=22606575
+timestamp=2026-04-01 08:32:55 index=dns src_ip=192.168.1.37 query=data.exfil.evil.com bytes_out=3767010
+timestamp=2026-04-01 08:33:00 index=dns src_ip=192.168.1.55 query=data.exfil.evil.com bytes_out=39074998
+timestamp=2026-04-01 08:33:05 index=dns src_ip=192.168.1.41 query=data.exfil.evil.com bytes_out=37366858
+timestamp=2026-04-01 08:33:10 index=dns src_ip=192.168.1.27 query=data.exfil.evil.com bytes_out=47400077
+timestamp=2026-04-01 08:33:15 index=dns src_ip=192.168.1.14 query=data.exfil.evil.com bytes_out=12558084
+timestamp=2026-04-01 09:06:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:06:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:06:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:06:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:07:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:08:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:09:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:10:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:11:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:12:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:13:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:00 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:05 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:10 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:15 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:20 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:25 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:30 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:35 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:40 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:45 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:50 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:14:55 index=dns query=malicious-c2.com interval=60s
+timestamp=2026-04-01 09:40:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:40:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:41:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:42:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:43:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:44:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:45:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:46:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:47:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:48:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:49:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:50:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:51:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:52:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:53:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:54:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:35 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:40 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:45 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:50 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:55:55 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:00 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:05 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:10 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:15 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:20 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:25 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:30 index=dns query=apt-c2.com
+timestamp=2026-04-01 09:56:35 index=dns query=apt-c2.com

@@ -1,0 +1,900 @@
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=emma ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=bob ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=david ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=john.doe ProcessName=chrome.exe ParentProcess=explorer.exe
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=john.doe ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=bob ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=david ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=alice ParentProcess=winword.exe ProcessName=powershell.exe CommandLine='-enc XYZ'
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=alice ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=john.doe ProcessName=ransomware.exe
+EventCode=4688 index=windows User=bob ProcessName=ransomware.exe
+EventCode=4688 index=windows User=david ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4688 index=windows User=emma ProcessName=ransomware.exe
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4672 index=windows user=admin privilege=SeDebugPrivilege
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=certutil.exe CommandLine='download evil.com'
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
+EventCode=4688 index=windows ProcessName=powershell.exe
