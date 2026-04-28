@@ -1,4 +1,4 @@
-# 🚀 Splunk SOC Capstone Project
+# 🚀 Splunk (SIEM) SOC Capstone Project
 
 ## 🎯 Objective
 
