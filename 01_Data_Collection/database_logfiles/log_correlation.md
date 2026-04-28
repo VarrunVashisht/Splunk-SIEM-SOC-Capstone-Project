@@ -128,22 +128,4 @@ BYTES → 17MB → 15MB → 81MB
 TIME  → Align timestamps across all logs
 ```
 
----
 
-## 💡 Usage Tips
-
-* Start with **user or IP pivot**
-* Build a **timeline using timestamps**
-* Compare **bytes fields** to detect exfiltration
-* Look for **suspicious domains + large transfers**
-* Tie **email → execution → data access → exfil**
-
----
-
-## 🚀 Optional Enhancements
-
-* Convert into **Splunk / KQL queries**
-* Build **timeline visualization**
-* Create **alert rules for exfil patterns**
-
----
