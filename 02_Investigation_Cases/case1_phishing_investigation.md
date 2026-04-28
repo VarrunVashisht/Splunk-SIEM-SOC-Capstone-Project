@@ -43,8 +43,16 @@ index=web
 
 ## 🧠 Analysis
 
-* Normal domains observed: google.com, linkedin.com, acme.com
+* Normal domains observed: 
+  google.com, 
+  linkedin.com, 
+  acme.com,
+  youtube.com
+
 * Suspicious domain detected: **secure-login-acme.com**
+* 
+<img width="1129" height="777" alt="image" src="https://github.com/user-attachments/assets/6cbd62c2-fe4e-497d-930e-e483facf57c2" />
+
 
 ## ✅ Conclusion
 
@@ -70,12 +78,16 @@ index=email
 * Sender: `it-support@secure-login.com`
 * Attachment: `reset.docm`
 * Same email sent to multiple users rapidly
+  
+<img width="1125" height="398" alt="image" src="https://github.com/user-attachments/assets/7093172e-7f30-4d76-b17c-35be21aa1a08" />
+
 
 ## ✅ Conclusion
 
 Mass phishing campaign confirmed.
 
 ---
+
 
 # 🧩 Subcase 3: User Click Behavior
 
@@ -94,6 +106,8 @@ index=web url="*secure-login*"
 
 * Not all recipients clicked
 * Only subset interacted with phishing domain
+
+<img width="1119" height="568" alt="image" src="https://github.com/user-attachments/assets/3e4a5d61-c539-4722-95ec-2d021fc1b02a" />
 
 ## ✅ Conclusion
 
@@ -146,6 +160,9 @@ index=windows EventCode=4688
 
 Office spawning PowerShell = high-confidence compromise signal
 
+<img width="1110" height="495" alt="image" src="https://github.com/user-attachments/assets/f6862bc9-50bf-45f7-a3d7-0347202024df" />
+
+
 ## ✅ Conclusion
 
 Malicious process chain detected.
@@ -192,6 +209,9 @@ index=windows EventCode=4657 OR EventCode=7045
 * Registry Run key modifications
 * Suspicious service creation
 
+  4657 = registry change
+  7045 = new service installed
+
 ## ✅ Conclusion
 
 Persistence successfully established.
@@ -220,6 +240,9 @@ index=dns
 
 DNS-based command & control / exfiltration channel
 
+<img width="1122" height="549" alt="image" src="https://github.com/user-attachments/assets/bdde9ced-cf6a-408f-a2d6-e43e66ba643a" />
+
+
 ## ✅ Conclusion
 
 DNS callback activity confirmed.
@@ -235,7 +258,8 @@ Final attacker objective = data theft.
 ## 🔍 SPL Query
 
 ```spl
-index=dns OR index=cloud OR index=file
+index="soc_project"  
+(sourcetype="cloud.log" OR sourcetype="file.log" OR sourcetype="dns.log")   
 | stats sum(bytes) by user
 ```
 
@@ -243,7 +267,6 @@ index=dns OR index=cloud OR index=file
 
 ### 📦 File Access
 
-* Repeated access to: `finance.xlsx`
 * Large data volume read
 
 ### 🌍 DNS Exfiltration
@@ -262,8 +285,11 @@ Multi-channel data exfiltration
 
 Sensitive data exfiltrated via:
 
-* DNS
-* Cloud storage
+* file.log
+* dns.log
+* cloud.log
+
+<img width="1111" height="577" alt="image" src="https://github.com/user-attachments/assets/7ae833b9-d290-4e8f-acc4-0ab4649d86c4" />
 
 ---
 
@@ -367,3 +393,5 @@ This investigation demonstrates:
 ✅ Real-world incident response workflow
 
 ---
+## Author
+Varrun Vashisht
