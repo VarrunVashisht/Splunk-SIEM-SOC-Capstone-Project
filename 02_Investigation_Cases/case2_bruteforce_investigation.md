@@ -43,6 +43,173 @@ Abnormal surge in failed logins detected → **initial brute force indicator**
 
 ---
 
+## 🔍 Subcase 1.1: Failed Login Spike Detection
+
+```spl id="6v0f1f"
+index="soc_project" sourcetype=combined action=login status=failed
+| bin _time span=1m
+| stats count as failed_attempts by _time user
+| eventstats avg(failed_attempts) as avg_failures by user
+| eval spike=if(failed_attempts > avg_failures*3, "YES", "NO")
+| where spike="YES"
+```
+
+### What it does
+
+Detects **abnormal spikes in failed login attempts per user** based on their normal behavior.
+
+---
+
+### Step-by-step
+
+**1. Filter failed logins**
+
+* Only login failures are considered
+
+---
+
+**2. Create 1-minute time buckets**
+
+```spl id="c9n8w8"
+| bin _time span=1m
+```
+
+* Groups events into 1-minute intervals
+
+---
+
+**3. Count failures per user per minute**
+
+```spl id="2a5jpx"
+| stats count as failed_attempts by _time user
+```
+
+* Calculates how many failed attempts each user has in each minute
+
+---
+
+**4. Calculate average failures per user**
+
+```spl id="2k1l3s"
+| eventstats avg(failed_attempts) as avg_failures by user
+```
+
+* Computes the average number of failures per user
+* Adds it to every row (no grouping)
+
+---
+
+**5. Detect spike**
+
+```spl id="4y9t7n"
+| eval spike=if(failed_attempts > avg_failures*3, "YES", "NO")
+```
+
+* Flags as spike if:
+
+  * failures > 3× average
+
+---
+
+**6. Show only spikes**
+
+```spl id="6r2m4q"
+| where spike="YES"
+```
+
+---
+
+### Output
+
+<img width="1810" height="599" alt="image" src="https://github.com/user-attachments/assets/520906ed-86b5-4da4-9dab-5e7c78202a72" />
+
+
+---
+
+### Use Case (SOC 🔐)
+
+* Detect **brute-force attacks**
+* Identify **credential stuffing**
+* Highlight abnormal user behavior
+* Useful for alerting & dashboards
+
+---
+
+### Notes
+
+* `eventstats` keeps original events while adding aggregates
+* Threshold `*3` is adjustable (lower = more sensitive)
+* Works best with time-restricted searches (e.g., last 1h)
+* bin → groups events into 1-minute buckets
+  
+
+### eventstats (Simple Explanation)
+
+**eventstats = adds calculation to each row without removing data**
+
+---
+
+### Example
+
+**Before**
+```text
+user   failed_attempts
+A      2
+A      4
+A      6
+```
+
+---
+
+**Query**
+
+```spl
+| eventstats avg(failed_attempts) as avg_failures by user
+```
+---
+
+**After**
+
+```text
+user   failed_attempts   avg_failures
+A      2                 4
+A      4                 4
+A      6                 4
+```
+
+---
+
+### Key Point
+
+* Keeps all rows ✅
+* Adds new calculated field ✅
+
+---
+
+### Compare
+
+**stats (removes rows)**
+
+```spl
+| stats avg(failed_attempts) by user
+```
+Result:
+
+```text
+user   avg
+A      4
+```
+---
+
+### One Line
+
+**stats = summarize data**
+**eventstats = add info to data (keeps rows add column to each row)**
+
+
+
+
+
 ## 🌍 Subcase 2: Source IP Analysis
 
 ### ❓ Why
