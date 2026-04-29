@@ -235,6 +235,86 @@ index="soc_project" sourcetype=combined status=failed
 Identified attacker origin pattern.
 
 ---
+## 🌍 Subcase 2.1: Source IP Analysis
+
+To determine if attack is:
+Single-source (targeted)
+Multi-source (distributed)
+
+### SPL Query Explanation (Failed Attempts Percentage by IP)
+
+```spl
+index="soc_project" sourcetype="auth.log" status=failed
+| stats count as attempts by src_ip
+| eventstats sum(attempts) as total_attempts
+| eval percentage=round((attempts/total_attempts)*100,2)
+| sort -attempts
+```
+
+### What it does
+Calculates **how much each IP contributes (%) to total failed login attempts**
+
+---
+
+### Step-by-step
+
+**1. Filter failed logins**
+* Only failed authentication events
+---
+
+**2. Count attempts per IP**
+
+```spl
+| stats count as attempts by src_ip
+```
+* Total failed attempts for each `src_ip`
+
+---
+
+**3. Calculate total attempts**
+
+```spl
+| eventstats sum(attempts) as total_attempts
+```
+* Adds total failed attempts across all IPs to every row
+---
+
+**4. Calculate percentage**
+
+```spl
+| eval percentage=round((attempts/total_attempts)*100,2)
+```
+* Computes % contribution of each IP
+* Rounded to 2 decimal places
+
+---
+
+**5. Sort results**
+
+```spl
+| sort -attempts
+```
+* Highest failed attempts shown first
+
+---
+
+### Example Output
+
+<img width="1885" height="855" alt="image" src="https://github.com/user-attachments/assets/f5126f35-0488-4d2b-96a9-4719c0bfefcd" />
+---
+
+### Use Case (SOC 🔐)
+
+* Identify **top attacking IPs**
+* Detect **brute-force sources**
+* Prioritize investigation based on impact
+---
+
+### Key Idea
+* `stats` → count per IP
+* `eventstats` → add overall total of all attempts from all IP.
+* `eval` → calculate percentage
+
 
 ## 👤 Subcase 3: Username Enumeration
 
@@ -315,6 +395,95 @@ failed → failed → success
 ### ✅ Conclusion
 
 Confirmed **account takeover event**
+
+## 🔓 Subcase 4.1: Successful Login After Failures
+
+### SPL Query Explanation (Fail → Success Detection)
+
+```spl id="9m2x7r"
+index="soc_project" sourcetype="auth.log"
+| sort 0 _time
+| streamstats current=f last(status) as prev_status by user
+| where prev_status="failed" AND status="success"
+```
+
+### What it does
+Finds cases where a **failed login is immediately followed by a successful login** for the same user.
+
+---
+
+### Step-by-step
+**1. Sort events by time**
+
+```spl id="c1l7kp"
+| sort 0 _time
+```
+
+* Sorts all events by `_time` (oldest → newest)
+* `0` = no limit (sort all events)
+
+---
+
+**2. Get previous status per user**
+
+```spl id="n8v2hz"
+| streamstats current=f last(status) as prev_status
+by user
+```
+
+* Looks at previous event for each `user`
+* Creates a new field: `prev_status`
+* `current=f` → do NOT include current row in calculation
+
+👉 Example:
+
+```text id="6wq3xb"
+status    prev_status
+failed    (null)
+success   failed   ✅
+```
+---
+
+**3. Filter fail → success**
+
+```spl id="x3r9mn"
+| where prev_status="failed" AND status="success"
+```
+
+* Keeps only events where:
+  * previous = failed
+  * current = success
+---
+
+### Result
+
+Shows login success events that were **immediately preceded by a failure**
+
+---
+
+### Example Output
+
+```text id="7f1kzq"
+_time                user     status    prev_status
+2026-04-01 10:05:00  user1    success   failed
+```
+
+<img width="1896" height="680" alt="image" src="https://github.com/user-attachments/assets/4b6bed16-79b7-43e5-afba-f3bbabd9edc4" />
+
+---
+
+### Use Case (SOC 🔐)
+
+* Detect **brute-force success**
+* Identify **password guessing**
+* Spot suspicious login patterns
+
+---
+
+### Key Idea
+
+* `streamstats` = track previous event
+* Compare previous vs current → detect sequence
 
 ---
 
@@ -415,6 +584,92 @@ Example:
 
 Potential attacker using external infrastructure.
 
+## 🌐 Subcase 6.1 : Geographic Anomalies
+
+### SPL Query Explanation (Multiple Countries per User)
+
+```spl
+index="soc_project" sourcetype="auth.log"
+| iplocation src_ip
+| stats values(Country) as countries
+by user
+| where mvcount(countries) > 1
+```
+
+### What it does
+
+Finds users who logged in from **more than one country**
+---
+
+### Step-by-step
+
+**1. Add location info**
+
+```spl
+| iplocation src_ip
+```
+
+* Converts IP → geographic fields
+* Creates `Country`, `City`, etc.
+---
+
+**2. Collect countries per user**
+
+```spl
+| stats values(Country) as countries by user
+```
+
+* Groups by `user`
+* `values(Country)` = unique list of countries per user
+---
+
+**3. Count number of countries**
+
+```spl
+| where mvcount(countries) > 1
+```
+
+* `mvcount()` = number of values in list
+* Keeps users with **more than 1 country**
+---
+
+### Result
+
+Shows users accessing from multiple countries
+
+---
+
+### Example Output
+
+```text
+user     countries
+user1    [United States, India]
+user2    [Germany, France, UK]
+```
+---
+
+### Use Case (SOC 🔐)
+
+* Detect **impossible travel**
+* Identify **account compromise**
+* Spot suspicious geo behavior
+
+---
+
+### Notes
+
+* `values()` = unique list (no duplicates)
+* `mvcount()` = count items in list, like if we have three countries, it gives 3.
+* Requires **public IPs** (private IPs won’t return Country)
+
+  count = how many times something happened (rows)
+  mvcount = how many items inside a field (list)
+---
+
+### Key Idea
+
+* Collect countries → count them → flag if >1
+
 ---
 
 ## 🔁 Subcase 7: Credential Stuffing Patterns
@@ -426,19 +681,12 @@ Attackers reuse leaked credentials across multiple accounts.
 ### 🔍 SPL Query
 
 ```spl
-index="soc_project" sourcetype=combined status=failed
+index="soc_project" sourcetype=combined 
+status=failed
 | stats dc(user) as unique_users by src_ip
-| where unique_users > 5
+| where unique_users > 
 ```
 ### SPL Query Explanation
-
-```spl
-index="soc_project" sourcetype=combined status=failed
-| stats dc(user) as unique_users by src_ip
-| where unique_users > 1
-```
-
-### SPL Query Breakdown
 
 **Base search**
 
@@ -457,15 +705,12 @@ status=failed
 👉 Meaning:
 
 * Count how many **different users** failed login from each IP
-
 **where unique_users > 1**
 
 * Filters results to only show:
-
   * IPs that tried **more than 1 unique user**
 
 ### Result
-
 Shows IP addresses that attempted failed logins for **multiple users**
 
 ### Use Case (SOC 🔐)
@@ -481,7 +726,6 @@ src_ip         unique_users
 192.168.1.10   5
 192.168.1.15   3
 ```
-
 👉 These IPs attempted failed logins on multiple users
 
 ### Notes
@@ -489,7 +733,6 @@ src_ip         unique_users
 * `dc()` = distinct count (very important for detection logic)
 * Works best when `user` field is properly extracted
 * Combine with time filters for better detection (e.g., last 5m)
-
 
 ### 🧠 Analysis
 
@@ -514,7 +757,6 @@ Brute force attacks often scale horizontally.
 index="soc_project" sourcetype=combined status=failed
 | stats values(user) by src_ip
 ```
-**stats values(user) by src_ip**
 
 ### SPL Query Explanation
 
