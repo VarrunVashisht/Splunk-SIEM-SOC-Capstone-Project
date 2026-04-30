@@ -74,7 +74,7 @@ C2 malware communicates at regular intervals (beaconing), unlike human-driven tr
 
 Detect periodic (automated) communication patterns.
 
-## 🔍 Medium Query
+## 🔍 Query
 
 ```spl
 index="soc_project" sourcetype="dns.log"
@@ -82,7 +82,7 @@ index="soc_project" sourcetype="dns.log"
 | stats count by _time, src_ip
 ```
 
-## 🔍 Advanced Query
+## 🔍 Query
 
 ```spl
 index="soc_project" sourcetype="dns.log"
@@ -352,7 +352,7 @@ C2 often used for data exfiltration.
 
 Identify abnormal data transfers.
 
-## 🔍 Medium Query
+## 🔍 Query
 
 ```spl
 index="soc_project" sourcetype="dns.log"
@@ -430,7 +430,7 @@ SOC must understand full attack progression.
 
 Reconstruct sequence of events.
 
-## 🔍 Medium Query
+## 🔍 Query
 
 ```spl
 index="soc_project"
