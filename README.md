@@ -32,7 +32,7 @@ Under each scenario, 10 further subcases are discussed.
 
 ## 🔥 Key Highlights
 
-* 10 real-world attack scenarios (10 x 10 subcases)
+* More than 80 real-world attack scenarios covered
 * 1000+ synthetic + realistic logs per case
 * Multi-source correlation (Windows, DNS, Web, Email)
 * Analyst-style investigation workflow
