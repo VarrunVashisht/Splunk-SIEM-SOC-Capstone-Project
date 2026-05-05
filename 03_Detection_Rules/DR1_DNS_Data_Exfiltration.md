@@ -141,6 +141,19 @@ tags:
   - data-loss
 ```
 
+## Setting an Alert
+
+<img width="989" height="784" alt="image" src="https://github.com/user-attachments/assets/70bfad79-162d-44da-88ab-3e2b0ca49081" />
+
+<img width="905" height="540" alt="image" src="https://github.com/user-attachments/assets/5ef592ee-751b-46ff-b29d-9fe13e6ad99a" />
+
+<img width="1660" height="395" alt="image" src="https://github.com/user-attachments/assets/014cbc62-066a-4227-b0f8-4dc01e22877c" />
+
+### Alert is Live!
+
+<img width="1888" height="322" alt="image" src="https://github.com/user-attachments/assets/a3cfd6e3-827b-4572-9b5d-f4a37bf04503" />
+
+
 ---
 
 ## 📉 Before vs After Tuning
