@@ -79,6 +79,7 @@ detections/
 ├── brute_force.yaml
 └── README.md
 ```
+<img width="1906" height="400" alt="image" src="https://github.com/user-attachments/assets/cf1884e2-315c-41c1-9e5b-b70bfc7be460" />
 
 ---
 
