@@ -172,7 +172,7 @@ It reflects practical skills expected from:
 ---
 
 ## 📬 About Me:
-Name: Varrun Vashisht
+Name: **Varrun Vashisht**
 
 Cyber Security Professional with hands-on experience in:
 
