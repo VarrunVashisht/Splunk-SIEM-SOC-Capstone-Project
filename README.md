@@ -4,8 +4,35 @@
 
 This project simulates a real-world Security Operations Center (SOC) environment using Splunk, SIEM tool.
 
-It covers top 10 real-world attack scenarios, including phishing, ransomware, insider threats, and advanced persistent threats (APT).
-Under each scenario, 10 further subcases are discussed.
+This project covers **10 real-world cyber attack scenarios**, including:
+
+- 🎣 Phishing Attacks  
+- 💣 Ransomware Incidents  
+- 🕵️ Insider Threats  
+- 🎯 Advanced Persistent Threats (APT)  
+- 🔓 Credential Compromise  
+- 🌐 Command & Control Activity  
+- 📤 Data Exfiltration  
+- 🧬 Malware Execution  
+- ⚠️ Privilege Escalation  
+- 🚨 Suspicious Lateral Movement  
+
+Each attack scenario further includes **10 detailed subcases** that simulate realistic investigation and detection workflows.
+
+---
+
+## 🧠 What Makes This Project Different
+
+This is not a basic Splunk project.  
+It replicates how security teams actually work:
+
+- 🔍 Investigating alerts using SPL queries  
+- 🧩 Correlating logs across multiple systems  
+- 🧠 Building hypotheses and validating them  
+- 📊 Reconstructing full attack timelines  
+- 🛡️ Making incident response decisions  
+
+👉 The focus is on thinking like a SOC analyst, not just writing queries.
 
 ---
 
@@ -27,6 +54,20 @@ Under each scenario, 10 further subcases are discussed.
 * Alerts configuration
 * Incident reporting
 * Dashboard creation
+
+---
+
+## 📊 Data Sources & Telemetry
+
+This project simulates an enterprise environment using multiple log sources:
+
+- 🖥️ Windows Logs – Process creation, registry changes, services  
+- 🌐 Web Logs – User browsing and URL activity  
+- 🌍 DNS Logs – Command & Control and data exfiltration  
+- 📧 Email Logs – Phishing campaigns and attachments  
+- 🔐 Authentication Logs – Login behavior and anomalies  
+- ☁️ Cloud Logs – Data uploads and API activity  
+- 📂 File Logs – File access and data movement  
 
 ---
 
@@ -62,54 +103,6 @@ Under each scenario, 10 further subcases are discussed.
 
 ---
 
-## Sub-Cases under each scenario:
-
-# 🚀 Splunk SOC Capstone Project
-
-## 🎯 Objective
-
-This project simulates a real-world Security Operations Center (SOC) environment using Splunk.
-
-It covers 10 real-world attack scenarios, including phishing, ransomware, insider threats, and advanced persistent threats (APT).
-
----
-
-## 🧠 Skills Demonstrated
-
-* SIEM (Splunk) investigation
-* Threat detection & analysis
-* Log correlation across multiple sources
-* Incident response workflow
-* MITRE ATT&CK mapping
-
----
-
-## 🧩 Project Structure
-
-* Data ingestion from multiple log sources
-* Detection engineering using SPL
-* Step-by-step investigations
-* Incident reporting
-* Dashboard creation
-
----
-
-## 🔥 Key Highlights
-
-* 10 real-world attack scenarios
-* 1000+ synthetic + realistic logs per case
-* Multi-source correlation (Windows, DNS, Web, Email)
-* Analyst-style investigation workflow
-
----
-
-## 🛠️ Tools Used
-
-* Splunk SIEM
-* Python (log generation)
-* GitHub (documentation)
-
----
 
 ## 🚀 Use Cases Covered
 
@@ -222,26 +215,44 @@ It covers 10 real-world attack scenarios, including phishing, ransomware, inside
    * Subcase 10: Activity Timeline Reconstruction
 
 10. Advanced Persistent Threat
-  * Subcase 1: Initial Access Detection
-  * Subcase 2: Reconnaissance Activity
-  * Subcase 3: Credential Harvesting
-  * Subcase 4: Lateral Movement Detection
-  * Subcase 5: Persistence Mechanisms
-  * Subcase 6: Command & Control Communication
-  * Subcase 7: Data Collection Activities
-  * Subcase 8: Data Exfiltration Detection
-  * Subcase 9: Long-Term Presence Indicators
-  * Subcase 10: Full APT Timeline Reconstruction
+    * Subcase 1: Initial Access Detection
+    * Subcase 2: Reconnaissance Activity
+    * Subcase 3: Credential Harvesting
+    * Subcase 4: Lateral Movement Detection
+    * Subcase 5: Persistence Mechanisms
+    * Subcase 6: Command & Control Communication
+    * Subcase 7: Data Collection Activities
+    * Subcase 8: Data Exfiltration Detection
+    * Subcase 9: Long-Term Presence Indicators
+    * Subcase 10: Full APT Timeline Reconstruction
 
 ---
 
+## 🎯 Why This Project Matters
+
+This project demonstrates real, job-ready cybersecurity skills:
+
+* Thinking like a SOC analyst
+* Investigating real-world attack scenarios
+* Correlating data across systems
+* Writing professional security reports
+
+👉 It bridges the gap between learning Splunk and working in a real SOC environment.
+
 ## 📌 Outcome
 
-This project demonstrates hands-on SOC analyst capabilities and real-world investigation skills.
+By completing this project, I have developed:
+
+- Hands-on SIEM investigation experience  
+- Detection engineering capability  
+- Strong understanding of attack behavior  
+- Practical incident response skills  
 
 
-## Author:
-Varrun Vashisht
-Cybersec | Data Analytics - professional
+## 👨‍💻 Author
+
+**Varrun Vashisht**  
+
+Cybersecurity | SOC Analyst | Threat Hunting | Detection Engineering
 
 
